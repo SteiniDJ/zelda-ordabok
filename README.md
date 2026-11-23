@@ -6,14 +6,14 @@ Ensk–íslensk orðabók frá A til Ö yfir orðin í *The Legend of Zelda: Oca
 
 | Skrá | Til hvers |
 |---|---|
-| [zelda-dictionary-A5.pdf](https://github.com/SteiniDJ/ocarina-dictionary-booklet/raw/main/zelda-dictionary-A5.pdf) | Til að lesa á skjá, eða prenta eina A5-síðu á blað. |
-| [zelda-dictionary-A5-booklet-A4.pdf](https://github.com/SteiniDJ/ocarina-dictionary-booklet/raw/main/zelda-dictionary-A5-booklet-A4.pdf) | Til að prenta sem bækling: prentaðu á A4 báðum megin (snúið um stutta brún), brjóttu bunkann saman í miðju og heftaðu. |
+| [zelda-dictionary-A5.pdf](https://github.com/SteiniDJ/zelda-ordabok/raw/main/zelda-dictionary-A5.pdf) | Til að lesa á skjá, eða prenta eina A5-síðu á blað. |
+| [zelda-dictionary-A5-booklet-A4.pdf](https://github.com/SteiniDJ/zelda-ordabok/raw/main/zelda-dictionary-A5-booklet-A4.pdf) | Til að prenta sem bækling: prentaðu á A4 báðum megin (snúið um stutta brún), brjóttu bunkann saman í miðju og heftaðu. |
 
 Tenglarnir vísa alltaf á nýjustu útgáfuna.
 
 ## Athugasemdir
 
-Íslenskan er skrifuð með aðstoð gervigreindar og aðeins lauslega yfirfarin. Ábendingar og leiðréttingar eru vel þegnar – sendu þær inn undir [Issues](https://github.com/SteiniDJ/ocarina-dictionary-booklet/issues).
+Íslenskan er skrifuð með aðstoð gervigreindar og aðeins lauslega yfirfarin. Ábendingar og leiðréttingar eru vel þegnar – sendu þær inn undir [Issues](https://github.com/SteiniDJ/zelda-ordabok/issues).
 
 ---
 
